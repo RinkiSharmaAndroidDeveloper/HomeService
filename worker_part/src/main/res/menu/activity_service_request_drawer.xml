@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/faq"
+            android:icon="@drawable/faq"
+
+            android:title="FAQ" />
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="0.5sp"
+            android:background="@color/menucolor" />
+        <item
+            android:id="@+id/share"
+            android:icon="@drawable/share"
+            android:title="Share" />
+        <item
+            android:id="@+id/abut_us"
+            android:icon="@drawable/about"
+            android:title="About Us" />
+        <item
+            android:id="@+id/contact_us"
+            android:icon="@drawable/contact"
+            android:title="Contact Us" />
+        <item
+            android:id="@+id/joinTeam"
+            android:icon="@drawable/team"
+            android:title="Join Our Team" />
+        <item
+            android:id="@+id/rate"
+            android:icon="@drawable/rate"
+            android:title="Rate Our App" />
+        <item
+            android:id="@+id/order"
+            android:icon="@drawable/orders"
+            android:title="My Orders" />
+
+    </group>
+
+
+</menu>

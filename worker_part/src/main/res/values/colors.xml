@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1a083a</color>
+    <color name="colorPrimaryDark">#1a083a</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="skycolor">#53b7f1</color>
+    <color name="buttonskycolor">#159deb</color>
+    <color name="white">#ffffff</color>
+    <color name="listbg1">#b9265e9b</color>
+    <color name="listbg2">#c3468bcc</color>
+    <color name="menucolor">#159deb</color>
+</resources>
